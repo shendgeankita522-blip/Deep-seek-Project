@@ -1,45 +1,4 @@
-🤖 DeepSeek AI Experiments with OpenRouter & Claude
 
-A practical Generative AI project exploring DeepSeek models, OpenRouter API, and Claude Sonnet through Python scripts and Jupyter notebooks.
-
-This project demonstrates how different Large Language Models (LLMs) can be accessed and experimented with through APIs, while comparing different approaches for building AI-powered applications.
-
-📌 Project Overview
-
-The DEEP-SEEK-PROJECT is an experimental Generative AI project focused on working with DeepSeek and other LLMs through the OpenRouter API.
-
-The project contains Python implementations and Jupyter notebooks that explore:
-
-DeepSeek model interaction
-OpenRouter API integration
-Claude Sonnet experimentation
-Prompt-based AI responses
-LLM experimentation through Python
-Comparison of different AI models and approaches
-
-The goal of this project is to understand how modern LLM APIs can be integrated into Python applications and how different models can be used for Generative AI tasks.
-
-✨ Features
-🤖 DeepSeek model integration
-🔌 OpenRouter API integration
-🧠 Claude Sonnet experimentation
-🐍 Python-based implementation
-📓 Jupyter Notebook experiments
-💬 Prompt-based interaction with LLMs
-🔐 Environment-variable based API key management
-🧪 Model experimentation and comparison
-🗂️ Project Structure
-DEEP-SEEK-PROJECT/
-│
-├── deep-seek.py
-├── openrouter.py
-│
-├── notebooks/
-│   ├── 1_Code.ipynb
-│   ├── Claude_Sonnet_5_.ipynb
-│   ├── deepseek_with_openrouter.ipynb
-│   └── Openrouter.ipynb
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
